@@ -1,0 +1,14 @@
+.divBlock{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    height:75px;
+    background-color: gray;
+    color: white;
+    margin: auto;
+}
+menuBlock ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
