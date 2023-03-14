@@ -1,0 +1,16 @@
+.mainBlock{
+border: 2px solid crimson;
+width: 200px;
+display: flex;
+justify-content: center;
+flex-direction:column ;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.parentBlock{
+    display: flex;
+    justify-content: space-evenly;
+}
