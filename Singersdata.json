@@ -1,0 +1,51 @@
+[
+    {
+        "SingerName":"Rajes krishna" ,
+        "Profession":"Melody singer" ,
+        "Songs": [" Usire"  , "suntargali", "ninna manevaregu"]  ,
+        "Songduration":"5 min" ,
+        "Songimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWRDPOQSCyv3qGIXQGgsN-ZZ9g5BTf2VjpIXZXbLDcSMJyjUl6QRhDV-JkxkFoouykC0&usqp=CAU"
+
+    },
+
+    {
+
+        "SingerName":"Shan" ,
+        "Profession":"hindi singer" ,
+        "Songs": ["jai hoo" ,"marati songs"]  ,
+        "Songduration":"5 min" ,
+        "Songimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPITT4HnuXOST34j_wce8jPL2z1ICxGf5G8Q&usqp=CAU"
+   
+    },
+    {
+
+        "SingerName":"Vijaya prakash sir" ,
+        "Profession":"singer" ,
+        "Songs": ["Bombehelutaite" ,"Saahukar"]  ,
+        "Songduration":"5 min" ,
+        "Songimage":""
+   
+    },
+    
+
+    {
+
+        "SingerName":"Guru rundav sir" ,
+        "Profession":" singer" ,
+        "Songs": ["Anisutide" ,"minchagi" , "baa nodu gelati"]  ,
+        "Songduration":"5 min" ,
+        "Songimage":""
+   
+    },
+    {
+
+        "SingerName":"Shreyaghoshal" ,
+        "Profession":" singer" ,
+        "Songs": ["gaganave baagi" ,"suna hai teri" , "sun rah hai"]  ,
+        "Songduration":"5 min" ,
+        "Songimage":""
+   
+    }
+    
+
+]
